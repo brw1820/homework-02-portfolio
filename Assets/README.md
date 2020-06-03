@@ -18,19 +18,20 @@ If your README is very long, add a table of contents to make it easy for users t
 ## Installation
 
 Clone the repository found at:
-https://github.com/brw1820/gt-accessibility-html
+https://github.com/brw1820/homework-02-portfolio
 
-https://brw1820.github.io/gt-accessibility-html/
+https://brw1820.github.io/homework-02-portfolio/
 
 Proceed to run the index.html file in your browser.
 
 
 ## Usage 
 
-This HTML file provides the best practices for accessibility in programming.
+This HTML file provides examples of my portfolio pages: Contact, About Me, and Portfolio.
 
-![Test Application](./Horiseon1.png)
-![Test Application](./Horiseon2.png)
+![Test Application](./About Me.PNG)
+![Test Application](./Contact.PNG)
+![Test Application](./Portfolio.PNG)
 
 ## Credits
 

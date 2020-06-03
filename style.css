@@ -8,8 +8,10 @@ body {
   }
   
   .navbar-brand {
-      background-color: teal;
-      ;
+      background-color: lightseagreen;
+      text-align: center;
+      padding: 5px 10px;
+      margin-left: 10px;
   }
 .dropdown-menu  {
     margin-right: auto;
@@ -80,19 +82,28 @@ input[type=submit]:hover {
 }
 
 .footer {
-    background-color: grey ;
+    background-color: grey;
     text-align:center;
+    font-size: 5px;
+    border-top: 2px lightseagreen solid;
+    margin-top: 30px;
+    height: 45px;
+    padding-top: 10px;
 }
 
+.footer h2{
+  font-size: 15px;
+}
+#Contact  {
+  height: fit-content;
+  width:45%;
+  align-self: auto;
+  
+}
 img {
     margin-left: 20px;
     margin-bottom: 20px;
 }
  .col-sm-12 {
     position:center;
-}
-
-.footer {
-  border-top:20px;
-  border-top-color: lightseagreen;
 }
