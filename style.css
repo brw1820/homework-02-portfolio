@@ -91,3 +91,8 @@ img {
  .col-sm-12 {
     position:center;
 }
+
+.footer {
+  border-top:20px;
+  border-top-color: lightseagreen;
+}
