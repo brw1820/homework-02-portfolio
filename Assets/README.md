@@ -29,7 +29,6 @@ Proceed to run the index.html file in your browser.
 
 This HTML file provides examples of my portfolio pages: Contact, About Me, and Portfolio.
 
-![Test Application](./About Me.PNG)
 ![Test Application](./Contact.PNG)
 ![Test Application](./Portfolio.PNG)
 
