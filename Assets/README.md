@@ -27,7 +27,7 @@ Proceed to run the index.html file in your browser.
 
 ## Usage 
 
-This HTML file provides examples of my portfolio pages: Contact, About Me, and Portfolio.
+This HTML file provides a template for a password generator of between 8 and 128 characters.
 
 ![Test Application](./Contact.PNG)
 ![Test Application](./Portfolio.PNG)

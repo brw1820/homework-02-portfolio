@@ -1,10 +1,15 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    background-image: url(./Assets/gtpfbg.png)
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(./Assets/gtpfbg.png);
+    padding:20px;
   }
   
   * {
     box-sizing: border-box;
+  }
+  
+  #nav1 {
+    background-color: blue;
   }
   
   .navbar-brand {
@@ -13,9 +18,9 @@ body {
       padding: 5px 10px;
       margin-left: 10px;
   }
-.dropdown-menu  {
+/* .dropdown-menu  {
     margin-right: auto;
-}
+} */
   .navbar-toggler-icon  {
       
       margin-left: center;
@@ -81,7 +86,7 @@ input[type=submit]:hover {
     background-color: whitesmoke;
 }
 
-.footer {
+footer {
     background-color: grey;
     text-align:center;
     font-size: 5px;
@@ -89,11 +94,15 @@ input[type=submit]:hover {
     margin-top: 30px;
     height: 45px;
     padding-top: 10px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 
 .footer h2{
   font-size: 15px;
 }
+
 #Contact  {
   height: fit-content;
   width:45%;
@@ -106,4 +115,18 @@ img {
 }
  .col-sm-12 {
     position:center;
+}
+
+@media only screen and (max-width: 500px) {
+  .container  {
+    margin: 5px;
+  }
+}
+
+.bg-light {
+  background-color: lightblue;
+}
+
+#nav-item {
+  margin:35px;
 }
