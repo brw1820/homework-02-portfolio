@@ -2,8 +2,7 @@
 
 ## The Repository
 
-This repository consists of a simple HTML file that has been refactored and optimized for search engines and to abide accessibility standards  for a marketing agency. 
-
+This repository consists of a simple HTML that creates a personal portfolio about me.
 
 ## Table of Contents (Optional)
 
@@ -25,10 +24,11 @@ Proceed to run the index.html file in your browser.
 
 ## Usage 
 
-This HTML file provides the best practices for accessibility in programming.
+This HTML file provides my personal portfolio.
 
-![Test Application](./Horiseon1.png)
-![Test Application](./Horiseon2.png)
+![Test-Application](./Assets/aboutme1.PNG)
+![Test Application](./Assets/Resume1.PNG)
+![Test Application](./Assets/contact1.PNG)
 
 ## Credits
 
