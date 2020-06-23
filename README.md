@@ -24,7 +24,8 @@ Proceed to run the index.html file in your browser.
 
 ## Usage 
 
-This HTML file provides my personal portfolio.
+This HTML file provides my personal portfolio, a link to my LinkedIN profile: https://www.linkedin.com/in/brian-warner-60712541/.
+It also includes my GitHub profile: https://github.com/brw1820.
 
 ![Test-Application](./Assets/aboutme2.PNG)
 ![Test Application](./Assets/Resume1.PNG)
