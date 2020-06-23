@@ -26,7 +26,7 @@ Proceed to run the index.html file in your browser.
 
 This HTML file provides my personal portfolio.
 
-![Test-Application](./Assets/aboutme1.PNG)
+![Test-Application](./Assets/aboutme2.PNG)
 ![Test Application](./Assets/Resume1.PNG)
 ![Test Application](./Assets/contact1.PNG)
 
