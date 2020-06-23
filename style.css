@@ -86,7 +86,7 @@ input[type=submit]:hover {
     background-color: whitesmoke;
 }
 
-footer {
+.footer1 {
     background-color: grey;
     text-align:center;
     font-size: 5px;
@@ -94,13 +94,31 @@ footer {
     margin-top: 30px;
     height: 45px;
     padding-top: 10px;
-    position: absolute;
     bottom: 0;
-    width: 100%;
+    width: 100%; 
+    position: absolute;
 }
+
+footer{
+  background-color: grey;
+  text-align:center;
+  font-size: 5px;
+  border-top: 2px lightseagreen solid;
+  margin-top: 30px;
+  height: 45px;
+  padding-top: 10px;
+  bottom: 0;
+  width: 100%;
+} */
 
 .footer h2{
   font-size: 15px;
+}
+
+.picture  {
+  max-height: 175px;
+  max-width: 175px;
+  border-style: double;
 }
 
 #Contact  {
@@ -112,6 +130,7 @@ footer {
 img {
     margin-left: 20px;
     margin-bottom: 20px;
+    margin-right: 20px;
 }
  .col-sm-12 {
     position:center;
@@ -120,6 +139,7 @@ img {
 @media only screen and (max-width: 500px) {
   .container  {
     margin: 5px;
+    width:50%;
   }
 }
 
@@ -129,4 +149,8 @@ img {
 
 #nav-item {
   margin:35px;
+}
+
+.picture{
+align:left;
 }
