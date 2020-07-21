@@ -12,6 +12,9 @@ body {
     background-color: blue;
   }
   
+  .works  {
+    color: lightblue;
+  }
   .navbar-brand {
       background-color: lightseagreen;
       text-align: center;
